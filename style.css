@@ -1,0 +1,87 @@
+body {
+    background-image: url(ddos.jpg);
+    background-size: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.main {
+    width: 980px;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+
+.bar {
+    height: 83px;
+    background-image: url(header2.jpg);
+    display: flex;
+    text-align: right;
+    padding-top: 53px;
+    box-sizing: border-box;
+    background-size: 100%;
+    
+}
+
+.link {
+    width: 152px;
+    height: 83px;
+    font-size: 16px;
+    font-family: arial;
+    text-decoration: none;
+}
+
+.games {
+    font-size: 34px;
+    margin-left: 30px;
+    color: blueviolet;
+}
+
+.topbar {
+    height: 44px;
+    background-image: url(images.jpg);
+    padding-top: 1px;
+    box-sizing: border-box;
+    background-size: 100%;
+    border-radius: 13px;
+}
+
+.topbar p {
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.flex {
+    display: flex;
+    padding-left: 30px;
+    padding-top: 45px;
+}
+
+.box {
+    height: 150px;
+    width: 326px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.parent {
+    background-image: url(blind.jpg);
+    background-size: 100px;
+    border-radius: 15px;
+    background-size: 100%;
+}
+img {
+    width: 290px;
+    height: 150px;
+    border-radius: 10px;
+}
+a {
+    color: white;
+}
+.a1 {
+    color: palevioletred;
+}
+.popa {
+    font-size: 50px;
+}
