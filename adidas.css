@@ -1,0 +1,16 @@
+body {
+    background-image: url(ad.jpg);
+    background-size: 100%;
+}
+
+.parent {
+    background-image: url(blind.jpg);
+    border-radius: 15px;
+    background-size: 100%;
+}
+
+.flex {
+    display: flex;
+    padding-left: 30px;
+    padding-top: 45px;
+}
